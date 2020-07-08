@@ -2,6 +2,11 @@ body{
     margin: 0;
     background: #fafafa;
   }
+
+.pink-text{
+  color: #e00808;
+
+}
   body,h1,h2,p,a,input{
     color: #555;
     font-family: Consolas, Arial;
